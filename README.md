@@ -1,2 +1,3 @@
 # rounx-user-web
-Rounx User Web
+Freelancer job site. 
+Built with TypeScript, Mui , React.
